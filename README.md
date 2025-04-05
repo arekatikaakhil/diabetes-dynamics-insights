@@ -33,8 +33,6 @@ This project explores and models diabetes risk factors to uncover insights that 
 | **ML Algorithms** | Logistic Regression, Random Forest, Decision Tree, SVM |
 
 ---
-
-## 📁 Project Structure
 # Diabetes Dynamics: A Data Analytics Approach
 
 📊 A data-driven project analyzing the behavioral, clinical, and socio-demographic factors influencing diabetes risk, using advanced big data and machine learning tools.
@@ -77,9 +75,6 @@ You're right! For GitHub Markdown, code blocks don't render file trees well unle
 
 ## 📁 Project Structure
 ```markdown
-bash
-Copy
-Edit
 diabetes-dynamics-insights/
 ├── README.md                   # Project overview and usage instructions  
 ├── requirements.txt            # Python dependencies  
